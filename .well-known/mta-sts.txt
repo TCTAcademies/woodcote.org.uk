@@ -1,4 +1,4 @@
 version: STSv1
 mode: testing
-mx: woodcotehigh-org-uk.mail.protection.outlook.com
+mx: woodcote-org-uk.mail.protection.outlook.com
 max_age: 604800
